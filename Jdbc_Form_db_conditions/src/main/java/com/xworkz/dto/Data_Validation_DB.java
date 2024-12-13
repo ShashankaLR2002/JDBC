@@ -1,4 +1,4 @@
-package com.xworkz.dto;
+ package com.xworkz.dto;
 
 public class Data_Validation_DB {
     private String name;
