@@ -1,4 +1,4 @@
-<persistence xmlns="http://xmlns.jcp.org/xml/ns/persistence" version="2.1">
+ <persistence xmlns="http://xmlns.jcp.org/xml/ns/persistence" version="2.1">
     <persistence-unit name="TestPersistence">
         <class>com.xworkz.dto.Cardto</class>
         <properties>
