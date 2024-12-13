@@ -1,4 +1,4 @@
-package com.xworkz.jdbccon;
+ package com.xworkz.jdbccon;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
