@@ -1,4 +1,4 @@
-package com.xworkz.constants;
+ package com.xworkz.constants;
 
 public enum ConnectionConstants {
 	URL("jdbc:mysql://localhost:3306/Prestmnt"), USERNAME("root"), PASSWORD("Shashank@2002");
