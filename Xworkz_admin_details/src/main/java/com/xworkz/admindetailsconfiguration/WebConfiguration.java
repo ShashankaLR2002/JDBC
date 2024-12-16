@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 package com.xworkz.admindetailsconfiguration;
 
 import org.springframework.context.annotation.ComponentScan;
