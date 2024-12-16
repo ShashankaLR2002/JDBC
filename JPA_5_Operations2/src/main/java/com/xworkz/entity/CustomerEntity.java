@@ -1,4 +1,4 @@
-package com.xworkz.entity;
+ package com.xworkz.entity;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

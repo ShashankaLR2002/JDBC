@@ -1,4 +1,4 @@
-package com.xworkz.runner;
+ package com.xworkz.runner;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;

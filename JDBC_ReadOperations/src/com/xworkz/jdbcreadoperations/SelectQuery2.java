@@ -1,4 +1,4 @@
-package com.xworkz.jdbcreadoperations;
+ package com.xworkz.jdbcreadoperations;
 
 public class SelectQuery2 {
 	

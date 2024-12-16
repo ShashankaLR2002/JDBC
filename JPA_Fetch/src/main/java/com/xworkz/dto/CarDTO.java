@@ -1,4 +1,4 @@
-package com.xworkz.dto;
+ package com.xworkz.dto;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
